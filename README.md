@@ -1,4 +1,4 @@
-# Shop Shop
+# Shop Shop :shopping:
   [![project-languages-used](https://img.shields.io/github/languages/count/katiechurchwell/shop-shop?color=important)](https://github.com/katiechurchwell/shop-shop)
   [![project-top-language](https://img.shields.io/github/languages/top/katiechurchwell/shop-shop?color=blueviolet)](https://github.com/katiechurchwell/shop-shop)
 
